@@ -6,11 +6,11 @@ title:            Black Cube Theme
 url:              http://www.pizn.me
 feed:             /atom.xml
 author:
-    name:         PIZn
-    email:        pizner@gmail.com
-description:      "PIZn's blog theme -- Black Cube Theme 1.0 "
+    name:         Kumfo
+    email:        kumfo@qq.com
+description:      "Kumfo's Blog"
 
-about: 			  "I am PIZn.I love all kinds of design, attention to the Internet dynamic, dedicated web front development, learn UI and UED."
+about: 			  "Kumfo,PHP 开发者"
 follow:
     github:       https://github.com/pizn
     twitter:      http://www.twitter.com/piznlin
@@ -18,5 +18,5 @@ description:      "PIZn's blog theme -- Black Cube Theme 1.0 "
 
 
 style: 			  /css/style.css
-blogName: 		  PIZn
+blogName: 		  Kumfo
 blogDesc: 		  Phosphorus,Iodine & Zinc.
