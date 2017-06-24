@@ -61,7 +61,7 @@ body                        { background: url(/images/body-bg.jpg) repeat 0 0; }
 .header-cnt                 { width: 900px; height: 54px; padding-top: 15px; margin: 0 auto; position: relative; }
 .header-cnt .logo           { padding: 4px 4px; height: 80px; background: #2f3133; border-radius: 0 0 14px 14px; position: absolute; top: -5px; left: 0; text-align: center; box-shadow: -1px -1px 2px #333 inset; box-shadow: 0px 0px 5px #272c32; }
 .header-cnt .logo-cnt       { height: 78px; border-radius: 0 0 10px 10px; border-left: 1px dashed #aaa; border-right: 1px dashed #aaa; border-bottom: 1px dashed #aaa; }
-.header-cnt .logo-cnt h1    { padding: 0px 10px 0px 10px; font-size: 28px; color: #eeeeee; font-family: "microsoft yahei",Times,serif; }
+.header-cnt .logo-cnt h1    { padding: 0px 10px 0px 10px; font-size: 28px; color: #eeeeee; font-family: "Verdana",Times,serif; }
 .header-cnt .logo-cnt h1 a  { color: #eeeeee; }
 .header-cnt .logo-cnt a:hover 
                             { text-decoration: none; color: #f6f6f6; text-shadow: 1px 1px 2px #444; }
@@ -189,7 +189,7 @@ body                        { background: url(/images/body-bg.jpg) repeat 0 0; }
                             { border-right: none; }
 .entry * tr th              { font-weight: 700; }
 .entry em                   { font-size: 14px; font-style: italic; color: #555; }
-.entry strong               { font-weight: 700; font-family: "microsoft yahei",Times,serif; }
+.entry strong               { font-weight: 700; font-family: "Verdana",Times,serif; }
 .entry a                    { border-bottom: 1px dotted #686868; color: #454545; }
 .entry a:hover              { background: #e8e8e8; border-bottom: 1px solid #777; text-decoration: none; }
 .entry pre                  { background-color: #303030; border-left: 5px solid #1f1f1f; border-top: 1px solid #1f1f1f; border-right: 1px solid #1f1f1f; border-bottom: 1px solid #1f1f1f; font: 12px/1.5 Monaco,serif; margin: 10px 0 10px 0px; overflow:  auto; color: #e8e8e8; border-radius: 3px 3px 3px 3px; }
@@ -197,7 +197,7 @@ body                        { background: url(/images/body-bg.jpg) repeat 0 0; }
 
 /** entry special **/
 .entry .title               { margin-bottom: 10px; font-family: Georgia; padding: 0 0; font-size: 26px; font-weight: 400; line-height: 32px; color: #383535; text-align: center; text-shadow: 1px 1px #FFFFFF; text-transform: uppercase; }
-.entry .meta                { text-align: center; color: #888; font-family: "microsoft yahei",Times,serif; font-size: 13px; text-indent: 0; font-weight: 600; }
+.entry .meta                { text-align: center; color: #888; font-family: "Verdana",Times,serif; font-size: 13px; text-indent: 0; font-weight: 600; }
 .entry .meta .date          { color: #888; } .entry .meta .author { padding-right: 4px; }
 .entry .description         { padding: 8px 12px; font-style: italic; text-align: center; color: #888; text-indent: 0; border-top: 1px dashed #a0a0a0; border-bottom: 1px dashed #a0a0a0; }
 .entry img                  { padding: 3px 3px; border-radius: 8px 8px; border: 1px solid #DEDEDE; box-shadow: 0 0 2px #d0d0d0; border-radius: 10px 10px; }
