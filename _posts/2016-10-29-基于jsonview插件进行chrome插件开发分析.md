@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 基于jsonview插件进行chrome插件开发分析.md
+title: 基于jsonview插件进行chrome插件开发分析
 description: 在做开发调试的时候，后端程序进行json输出，在谷歌浏览器打开是一大段字符串，看起来很不舒服...
 key: 程序员
 ---
